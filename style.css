@@ -1,0 +1,10 @@
+@import url('helper.css');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: red;
+    height: 100vh;
+}
